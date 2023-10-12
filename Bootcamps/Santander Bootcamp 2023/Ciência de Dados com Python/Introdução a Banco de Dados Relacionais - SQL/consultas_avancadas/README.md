@@ -44,20 +44,3 @@ ON rs.id_destino = ds.id;
 ``` 
 
 <img src="images/right_join.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-``` 
